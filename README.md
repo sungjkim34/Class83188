@@ -1,7 +1,7 @@
 # Class83188
 
 ## Project Description
-A TamperMonkey macro written in Javascript to get the class you need.
+A TamperMonkey macro written in Javascript to register for the class you need.
 
 ## Instructions
 - Download and install the Tampermonkey extension to Google Chrome. 
