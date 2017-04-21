@@ -16,5 +16,5 @@ A TamperMonkey macro written in Javascript to get the class you need.
 
 ## Disclaimer
 - Your computer must stay on at all times for this macro to be effective.
-- I am not responsible for any legal consenquences that may occur from using this macro.
+- I am not responsible for any legal consequences that may occur from using this macro.
 - This macro does not guarantee the registration of classes.
